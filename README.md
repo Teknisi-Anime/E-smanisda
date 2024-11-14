@@ -5,7 +5,9 @@ This website is part of SMANISDA's sustainable lifestyle program, focusing on pr
 The website provides various resources, tips, and digital tools to support the use of technology as an alternative to reduce paper waste. From digital learning materials, online forms, to electronic documents, we offer ways to foster a greener and more sustainable environment. Let’s contribute together to protect our planet for future generations!
 
 Let’s take the first steps towards a more environmentally friendly lifestyle with small actions that have a big impact!
+
 **create by team 1 XI-8**
+
 # **Mengurangi Sampah Kertas dengan Teknologi**
 
 Website ini adalah bagian dari program gaya hidup berkelanjutan SMANISDA yang berfokus pada solusi praktis dan inovatif untuk mengurangi sampah kertas. Kami percaya bahwa dengan memanfaatkan teknologi, kita dapat meminimalkan penggunaan kertas dalam aktivitas sehari-hari, baik di lingkungan sekolah maupun dalam kehidupan sehari-hari.

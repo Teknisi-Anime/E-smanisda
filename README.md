@@ -25,7 +25,7 @@ Mari kita mulai perubahan menuju gaya hidup yang lebih ramah lingkungan dengan l
 
 **Dibuat oleh Tim 1 XI-8**
 
-#credit
+# credit
 
 thanks to all Member of Team 1 XI-8 for their work,Without them it would be impossible for this website to be online 
 
